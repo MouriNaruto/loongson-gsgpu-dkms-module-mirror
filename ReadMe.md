@@ -8,7 +8,7 @@ First of all, I need to clarify I am not a Loongson user or a Loongson employee.
 
 One of my friends told me Loongson had done a closed source kernel module but
 noted with GPL for a new GPU chip from them, and they are trying their best to
-analyze it via reserve engineering.
+analyze it via reverse engineering.
 
 I was interested about that and I had downloaded the package from the Loongnix
 software repository. I found they have provide the full source code of them.
