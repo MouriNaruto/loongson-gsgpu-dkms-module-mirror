@@ -13,9 +13,9 @@ analyze it via reverse engineering.
 I was interested about that and I had downloaded the package from the Loongnix
 software repository. I found they have provide the full source code of them.
 
-It looks like the module is based on the AMD driver. I have tried my best to
-find the copyright information from Loongson and finally I have found it in
-several files.
+It looks like the module is based on the AMD GPU driver. I have tried my best
+to find the copyright information from Loongson and finally I have found the
+copyright information in several files.
 
 ## Information
 
